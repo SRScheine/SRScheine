@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 👨  I’m Scott, a full stack software engineer
-- 🔭  I’m currently working on an app that uses React Leaflet, Socket.IO, and Material UI
-- 🌱  I’m studying Data Structures and Algorithms
+- 👨  I’m Scott, a frontend software engineer
+- 🔭  I’m currently working on an app that uses Next.js, Tailwind, and Redux Toolkit
 - 💬  Ask me about how my former career as a structural engineer helps me code everyday
 - 📫  How to reach me: https://www.linkedin.com/in/scott-scheine/
 - 😄  Pronouns: he/him/his
